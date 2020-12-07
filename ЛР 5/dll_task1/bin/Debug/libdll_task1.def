@@ -1,0 +1,9 @@
+EXPORTS
+    _ZN8dll_func11Show_matrixEPPii @1
+    _ZN8dll_func12Perimetr_SumEPPii @2
+    _ZN8dll_func12Show_ResultsEii @3
+    _ZN8dll_func3SubEii @4
+    _ZN8dll_func3SumEii @5
+    _ZN8dll_func5SpaceEv @6
+    _ZN8dll_func6Rule_AEii @7
+    _ZN8dll_func6Rule_BEii @8
